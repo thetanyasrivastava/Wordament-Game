@@ -1,0 +1,74 @@
+How it Works?
+
+
+Loading...Wordament Puzzle
+
+Enter Grid Size : 4
+
+preprocessing...
+
+Enter characters:
+t	r	u	d
+p	i	t	l
+c	d	e	g
+e	u	a	k
+
+
+
+Total words found: 51
+
+
+printing words
+titled
+priced
+trite
+tried
+trice
+title
+ruled
+pried
+pride
+price
+lurid
+cited
+lead
+cede
+trip
+cite
+tied
+tide
+teak
+cued
+rule
+rite
+ride
+rice
+iced
+idea
+leak
+pied
+lute
+lea
+led
+leg
+cud
+cue
+tit
+tip
+let
+tie
+lur
+tic
+ted
+tea
+rut
+pie
+rip
+rid
+pit
+ice
+it
+pi
+id
+Enter 1 to continue / 0 for exit
+0
